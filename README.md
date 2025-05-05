@@ -65,7 +65,7 @@ The module can be installed into an existing Klipper setup with the supplied ins
 
 ```
 cd ~
-git clone https://github.com/moggieuk/Happy-Hare.git
+git clone https://github.com/gneu42/HH-271-97.git
 ```
 
 <br>
